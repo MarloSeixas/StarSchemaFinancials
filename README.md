@@ -12,7 +12,8 @@ Tabelas Dimensão: Definem os atributos descritivos, incluindo produtos, descont
 . Estruturação do Diagrama
 As tabelas foram organizadas conforme a metodologia de modelagem dimensional:
 
-F_Vendas → Tabela Fato.
+F_Vendas  
+Tabela Fato.
 D_Produtos 
 D_Descontos 
 D_Calendário 
@@ -27,7 +28,7 @@ Total de Unidades Vendidas
 Faturamento por Segmento
 
 
-🚀 Funcionalidades
+Funcionalidades
 Modelo dimensional otimizado para análise de vendas
 Uso de funções DAX para cálculos personalizados
 Relacionamentos bem definidos para consultas eficientes
